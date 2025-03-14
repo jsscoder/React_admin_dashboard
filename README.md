@@ -1,6 +1,5 @@
-Here's an improved version of your `README.md` for your React Admin Dashboard project. I've added better structure, clarity, and a few details to enhance it:
 
-```markdown
+markdown
 <h1 align="center">React Admin Dashboard</h1>
 
 <p align="center">
